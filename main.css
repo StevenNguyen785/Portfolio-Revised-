@@ -7,11 +7,12 @@ html {
 body {
   marign: 0;
   padding: 0;
-  color: darkgrey;
+  color: #FFFFFF;
   justify-content: center;
   align-items: center;
   min-height: center;
-  background-color: black;
+  background-image: url("lightblue.jpg");
+  font-weight: 900;
   font-family: 'Poppins', sans-serif;
 }
 a
